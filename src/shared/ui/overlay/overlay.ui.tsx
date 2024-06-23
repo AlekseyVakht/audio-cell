@@ -1,11 +1,11 @@
 import { Image } from "@vkontakte/vkui";
 import { observer } from "mobx-react-lite";
-import { Eq, Play, Pause } from "../icons";
+import { SoundBar, Pause, Play } from "../icons";
 
 import { coverStore, playerStore } from "@/shared/model";
 
 const HoveredOverlay = observer(() => {
-  return <>{!coverStore.isHovered ? <Eq /> : <Pause />}</>;
+  return <>{!coverStore.isHovered ? <SoundBar /> : <Pause />}</>;
 });
 
 export const Overlay = observer(() => {
