@@ -1,6 +1,6 @@
 # Виджет для воспроизведения аудио
 
-## Stack: HTML, JS, React, Husky, eslint, Lint Staged, Prettier, MobX, VKUI
+## Stack: HTML, TS, React, Husky, eslint, Lint Staged, Prettier, MobX, VKUI
 
 Ссылка на проект https://github.com/AlekseyVakht/audio-cell
 
