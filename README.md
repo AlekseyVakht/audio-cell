@@ -6,9 +6,9 @@
 
 Ссылка на Vercel: https://audio-cell.vercel.app/
 
-Для запуска приложения:
+Инструкция по запуску:
 
-1. Склонировать репозиторий `git@github.com:AlekseyVakht/audio-cell.git`
+1. Склонировать репозиторий `git clone git@github.com:AlekseyVakht/audio-cell.git`
 
 2. Перейти в папку с репозиторием `cd audio-cell`
 
