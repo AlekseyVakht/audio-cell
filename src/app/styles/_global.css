@@ -1,0 +1,6 @@
+.vkui__root {
+  block-size: auto;
+  display: flex;
+  justify-content: center;
+  width: 360px;
+}
